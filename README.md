@@ -15,7 +15,7 @@ This project aims to set up a weather dashboard using Python, which collects wea
 ## Prerequisites
 Before you begin, ensure you have the following installed:
 - python3.x
-- OpenWeather API key(https://openweathermap.org/)
+- [OpenWeather API key](https://openweathermap.org/)
 - AWS account
 - AWS CLI
 
