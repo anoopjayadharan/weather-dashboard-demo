@@ -30,6 +30,7 @@ The following modules are being used in this project
 1. Clone the repository:
 ```
 git clone https://github.com/anoopjayadharan/weather-dashboard-demo.git
+cd weather-dashboard-demo
 ```
 2. Install dependencies
 ```
