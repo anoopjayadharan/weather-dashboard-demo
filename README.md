@@ -2,7 +2,7 @@
 This project aims to set up a weather dashboard using Python, which collects weather data about various cities and stores it in AWS S3 as JSON.
 
 # Table of Contents
-- [Getting Started](#getting-startedGetting Started)
+- [Getting Started](#getting-started)
     - [Project Structure](#project-structure)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
